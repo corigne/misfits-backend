@@ -1,0 +1,15 @@
+{
+  "name": "misfits-backend",
+  "version": "1.0.0",
+  "description": "Basic SQL Backend for Misfits Resume Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "misfits-backend"
+  },
+  "author": "Nathan Jodoin",
+  "license": "GPL-2.0-only"
+}
